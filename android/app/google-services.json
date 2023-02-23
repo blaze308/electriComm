@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948512699654",
+    "project_id": "flutter-firebase-2ce12",
+    "storage_bucket": "flutter-firebase-2ce12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948512699654:android:e796914eddf240f678da87",
+        "android_client_info": {
+          "package_name": "com.example.electricomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948512699654-73r5sd0dpbir7nq8eletf4541h8jj1ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosesu4XwgtraH0qHr_KbqZbalX1FVwKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948512699654-73r5sd0dpbir7nq8eletf4541h8jj1ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
