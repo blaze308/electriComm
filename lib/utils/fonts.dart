@@ -1,5 +1,4 @@
 import 'package:electricomm/utils/colors.dart';
-import 'package:electricomm/utils/sizes.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -23,7 +22,7 @@ class LargeText {
       style: GoogleFonts.ubuntu(
         color: mainTextColor,
         fontWeight: FontWeight.w500,
-        fontSize: Sizes.largeFontSize,
+        fontSize: 90,
       ),
     );
   }
@@ -49,7 +48,7 @@ class SmallText {
       style: GoogleFonts.ubuntu(
         color: mainTextColor,
         fontWeight: FontWeight.w100,
-        fontSize: Sizes.smallFontSize,
+        fontSize: 90,
       ),
     );
   }
